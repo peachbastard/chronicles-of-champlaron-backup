@@ -1,5 +1,5 @@
 ---
-dg-publish: test
+dg-publish: true
 ---
 
 ![[Austyr Anemoi IMG.png]]

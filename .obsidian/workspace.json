@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/The Royal Family/Duchess Aquilo Anemoi.md",
+                "file": "Places/Poppleton.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC/The Royal Family/Duchess Aquilo Anemoi.md",
+                "file": "Places/Poppleton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC/The Royal Family/Duchess Aquilo Anemoi.md",
+                "file": "Places/Poppleton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPC/The Royal Family/Duchess Aquilo Anemoi.md"
+                "file": "Places/Poppleton.md"
               }
             }
           }
@@ -199,11 +199,11 @@
   },
   "active": "feb51bffc0487d37",
   "lastOpenFiles": [
-    "z_Assets/Duchess Aquilo Anemoi IMG.png",
-    "NPC/The Royal Family/Duke Vulturnus Anemoi.md",
-    "NPC/The Royal Family/Duchess Aquilo Anemoi.md",
-    "Places/Poppleton.md",
     "Places/Champlaron.md",
+    "Places/Poppleton.md",
+    "NPC/The Royal Family/Duchess Aquilo Anemoi.md",
+    "NPC/The Royal Family/Duke Vulturnus Anemoi.md",
+    "z_Assets/Duchess Aquilo Anemoi IMG.png",
     "Party/Austyr Anemoi.md",
     "z_Templates/Template - NPC.md",
     "z_Assets/Duke Vulturnus Anemoi IMG.png",
@@ -222,7 +222,6 @@
     "z_Assets/Crimson (2).svg",
     "z_Assets/Crimson (1) (1).svg",
     "z_Assets/Crimson (1).svg",
-    "z_Assets/Crimson.svg",
     "NPC/The Royal Family",
     "z_Templates",
     "Items",

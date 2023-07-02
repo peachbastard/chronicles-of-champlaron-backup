@@ -12,8 +12,8 @@ district:
 ![[Duchess Aquilo Anemoi IMG.png]]
 
 >[!npc]
->**Race:**
->**Location:**
->**Friendly:**
+>**Race:** Air Genasi
+>**Location:** Castle Anemoi
+>**Friendly:** Yes
 >
-> - Test
+> - Mother of [[Austyr Anemoi]]

@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/Austyr Anemoi.md",
+                "file": "Home Page.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Austyr Anemoi.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Austyr Anemoi.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Austyr Anemoi.md"
+                "file": "Home Page.md"
               }
             }
           }
@@ -195,8 +195,8 @@
   },
   "active": "5b5e4aab348e57a3",
   "lastOpenFiles": [
-    "Places/Champlaron.md",
     "Party/Austyr Anemoi.md",
+    "Places/Champlaron.md",
     "Home Page.md",
     "Party/TBD Warlock.md",
     "chronicles-of-champlaron-backup",

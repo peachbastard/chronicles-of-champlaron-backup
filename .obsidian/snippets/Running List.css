@@ -1,0 +1,82 @@
+body {
+
+/* Orange Callouts */
+
+.callout[data-callout="place"] {
+    --callout-color: 190, 131, 11;
+    --callout-icon: lucide-globe-2;
+    border-radius: 10px;
+}
+
+.callout[data-callout="npc"] {
+    --callout-color: 190, 131, 11;
+    --callout-icon: lucide-ghost;
+    border-radius: 10px;
+}
+
+.callout[data-callout="info"] {
+    --callout-color: 190, 131, 11;
+    --callout-icon: lucide-brain;
+    border-radius: 10px;
+}
+
+.callout[data-callout="party"] {
+    --callout-color: 190, 131, 11;
+    --callout-icon: lucide-heart;
+    border-radius: 10px;
+}
+
+.callout[data-callout="item"] {
+    --callout-color: 190, 131, 11;
+    --callout-icon: lucide-sword;
+    border-radius: 10px;
+}
+
+/* Reduce Image Size */
+
+img {
+    width: 65%; /* Adjust the value as needed */
+  }     
+
+/* Center Images */
+    
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+    
+/* Remove link underlines */
+
+.cm-hmd-internal-link .cm-underline, .internal-link {
+text-decoration: initial !important
+}    
+
+
+/* Center tables on the page */
+.markdown-preview-view table {
+    margin-left: auto;
+    margin-right: auto;
+}    
+
+/* Center table headings and contents in Obsidian MD */
+.markdown-preview-view table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .markdown-preview-view table th,
+  .markdown-preview-view table td {
+    text-align: center;
+  }
+
+/* Center H3 and H2*/    
+h3 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+    
+}

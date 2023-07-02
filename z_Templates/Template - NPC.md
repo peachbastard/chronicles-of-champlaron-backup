@@ -8,11 +8,12 @@ place:
 district:
 ---
 
+## NAME
 ![[Placeholder IMG.png]]
 
 >[!npc]
 >**Race:**
->**Class:**
->**Subclass:**
+>**Location:**
+>**Friendly:**
 >
 > - Test

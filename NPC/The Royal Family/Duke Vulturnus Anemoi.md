@@ -1,5 +1,5 @@
 ---
-dg-publish:
+dg-publish: true
 race: Air Genasi
 class:
 hostile:
@@ -8,11 +8,13 @@ place:
 district:
 ---
 
+## Duke Vulturnus Anemoi
+
 ![[Duke Vulturnus Anemoi IMG.png]]
 
 >[!npc]
->**Race:**
->**Class:**
->**Subclass:**
+>**Race:** Air Genasi 
+>**Location:** Castle Anemoi
+>**Friendly:** Yes
 >
-> - Test
+> - Father of [[Austyr Anemoi]] 

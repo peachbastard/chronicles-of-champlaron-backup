@@ -12,5 +12,5 @@ dg-publish: true
 > **Subclass:** N/A
 > 
 > - Austyr is the daughter of the Duke 
-> - Fun-loving, carefree, spoiled
+> - Fun-loving, carefree, priveledged
 

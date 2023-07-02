@@ -1,0 +1,29 @@
+.callout[data-callout="place"] {
+    --callout-color: 190, 131, 11;
+    --callout-icon: lucide-globe-2;
+    border-radius: 10px;
+}
+
+.callout[data-callout="npc"] {
+    --callout-color: 190, 131, 11;
+    --callout-icon: lucide-ghost;
+    border-radius: 10px;
+}
+
+.callout[data-callout="info"] {
+    --callout-color: 190, 131, 11;
+    --callout-icon: lucide-brain;
+    border-radius: 10px;
+}
+
+.callout[data-callout="party"] {
+    --callout-color: 190, 131, 11;
+    --callout-icon: lucide-heart;
+    border-radius: 10px;
+}
+
+.callout[data-callout="item"] {
+    --callout-color: 190, 131, 11;
+    --callout-icon: lucide-sword;
+    border-radius: 10px;
+}

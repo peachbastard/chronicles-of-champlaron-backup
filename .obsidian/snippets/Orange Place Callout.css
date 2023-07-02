@@ -1,0 +1,5 @@
+.callout[data-callout="place"] {
+    --callout-color: 190, 131, 11;
+    --callout-icon: lucide-globe;
+    border-radius: 10px;
+}

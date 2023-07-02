@@ -1,6 +1,6 @@
 ---
 dg-publish:
-race:
+race: Air Genasi
 class:
 hostile:
 encountered:
@@ -8,7 +8,7 @@ place:
 district:
 ---
 
-![[Placeholder IMG.png]]
+![[Duke Vulturnus Anemoi IMG.png]]
 
 >[!npc]
 >**Race:**

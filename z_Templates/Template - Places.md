@@ -5,8 +5,12 @@ district:
 explored:
 ---
 
+## NAME
+
+![[Placeholder IMG.png]]
+
 >[!place]
->![[Placeholder IMG.png]]
 
 
-# Notable Features
+
+### Notable Features

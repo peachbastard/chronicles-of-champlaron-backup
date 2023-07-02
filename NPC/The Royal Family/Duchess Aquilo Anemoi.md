@@ -17,3 +17,4 @@ district:
 >**Friendly:** Yes
 >
 > - Mother of [[Austyr Anemoi]]
+> - Married to [[Duke Vulturnus Anemoi]]

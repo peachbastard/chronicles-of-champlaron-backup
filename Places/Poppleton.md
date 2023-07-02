@@ -10,8 +10,6 @@ explored:
 ![[Placeholder IMG.png]]
 
 >[!place]
->## T
-
-
-
-### Notable Features
+>### History 
+>
+>### Notable Features

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "Party/Austyr Anemoi.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Party/Austyr Anemoi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Party/Austyr Anemoi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Party/Austyr Anemoi.md"
               }
             }
           }
@@ -175,11 +175,11 @@
   },
   "active": "8faf097cc1ad4e19",
   "lastOpenFiles": [
+    "Home Page.md",
     "Party/Austyr Anemoi.md",
     "chronicles-of-champlaron-backup",
     "Party/TBD Warlock.md",
     "Party/Austyr Test 2.md",
-    "Home Page.md",
     "z_Templates/Template - NPC.md",
     "z_Templates/Template - Party.md",
     "z_Templates/Template - Places.md",

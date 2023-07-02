@@ -11,6 +11,8 @@ dg-publish: true
 > **Class:** Monk
 > **Subclass:** N/A
 > 
-> - Austyr is the daughter of the Duke 
-> - Fun-loving, carefree, priveledged
+> - Daughter of the Duke 
+> - Fun-loving, whimsical, privileged
+> - Trained since early childhood as a guardian for the ducal family and [[Poppleton]] 
+> - 
 

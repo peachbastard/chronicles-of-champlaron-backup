@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,15 +197,15 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "5b5e4aab348e57a3",
+  "active": "feb51bffc0487d37",
   "lastOpenFiles": [
+    "Places/Champlaron.md",
     "NPC/The Royal Family/Duke Vulturnus Anemoi.md",
-    "z_Templates/Template - NPC.md",
     "Party/Austyr Anemoi.md",
+    "z_Templates/Template - NPC.md",
     "z_Assets/Duke Vulturnus Anemoi IMG.png",
     "Party/TBD Warlock.md",
     "Home Page.md",
-    "Places/Champlaron.md",
     "Places/Poppleton.md",
     "chronicles-of-champlaron-backup",
     "Party/Austyr Test 2.md",

@@ -1,11 +1,11 @@
 {
   "githubRepo": "chronicles-of-champlaron",
-  "githubToken": "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",
+  "githubToken": "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",
   "githubUserName": "taufricano",
   "gardenBaseUrl": "",
   "prHistory": [],
   "baseTheme": "dark",
-  "theme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
+  "theme": "{\"name\":\"Nightingale\",\"author\":\"frank0713\",\"repo\":\"frank0713/nightingale-obsidian\",\"screenshot\":\"image/cover.png\",\"modes\":[\"dark\"],\"cssUrl\":\"https://raw.githubusercontent.com/frank0713/nightingale-obsidian/HEAD/theme.css\"}",
   "faviconPath": "z_Assets/Crimson (2)_adobe_express.svg",
   "noteSettingsIsInitialized": true,
   "siteName": "Alea iacta est",

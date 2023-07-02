@@ -6,6 +6,7 @@ hostile:
 encountered:
 place:
 district:
+alias: the Duchess
 ---
 
 ## Duchess Aquilo Anemoi

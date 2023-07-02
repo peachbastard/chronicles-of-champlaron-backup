@@ -12,7 +12,7 @@ dg-publish: true
 > **Class:** Monk
 > **Subclass:** N/A
 >
-> - Daughter of [[Duke Vulturnus Anemoi|the Duke]] 
+> - Daughter of [[Duke Vulturnus Anemoi|the Duke]] and the [[Duchess Aquilo Anemoi|the Duchess]]
 > - Fun-loving, whimsical, privileged
 > - Trained since early childhood as a guardian for the ducal family and [[Poppleton]] 
 

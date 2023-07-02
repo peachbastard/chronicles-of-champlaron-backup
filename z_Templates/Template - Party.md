@@ -6,5 +6,6 @@ subclass:
 race:
 ---
 
+![[Placeholder IMG.png]]
+
 >[!party]
->![[Placeholder IMG.png]]

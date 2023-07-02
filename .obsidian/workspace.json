@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Electric Mango.md",
+                "file": "Party/Austyr Anemoi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a843808d28b65360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC/The Royal Family/Duchess Aquilo Anemoi.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Electric Mango.md",
+                "file": "Party/Austyr Anemoi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Electric Mango.md",
+                "file": "Party/Austyr Anemoi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Electric Mango.md"
+                "file": "Party/Austyr Anemoi.md"
               }
             }
           }
@@ -197,25 +209,25 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "5f057d8701006d42",
+  "active": "5b5e4aab348e57a3",
   "lastOpenFiles": [
-    "z_Assets/Electric Mango Placeholder IMG.png",
-    "Places/Poppleton.md",
-    "Places/Electric Mango.md",
+    "NPC/The Royal Family/Duchess Aquilo Anemoi.md",
     "Party/Austyr Anemoi.md",
     "Party/TBD Warlock.md",
+    "z_Templates/Template - Party.md",
+    "z_Templates/Template - Item.md",
     "Home Page.md",
+    "Places/Poppleton.md",
+    "Places/Electric Mango.md",
+    "z_Assets/Electric Mango Placeholder IMG.png",
     "NPC/The Royal Family/Duke Vulturnus Anemoi.md",
-    "NPC/The Royal Family/Duchess Aquilo Anemoi.md",
     "Places/Champlaron.md",
     "z_Templates/Template - Places.md",
     "z_Templates/Template - NPC.md",
-    "z_Templates/Template - Item.md",
     "z_Assets/Duchess Aquilo Anemoi IMG.png",
     "z_Assets/Duke Vulturnus Anemoi IMG.png",
     "chronicles-of-champlaron-backup",
     "Party/Austyr Test 2.md",
-    "z_Templates/Template - Party.md",
     "z_Assets/TBD Rogue IMG.png",
     "z_Assets/TBD Warlock IMG.png",
     "z_Assets/Crimson (2)_adobe_express.svg",
@@ -223,7 +235,6 @@
     "z_Assets/Austyr Anemoi IMG.png",
     "z_Assets/Crimson (2).svg",
     "z_Assets/Crimson (1) (1).svg",
-    "z_Assets/Crimson (1).svg",
     "NPC/The Royal Family",
     "z_Templates",
     "Items",

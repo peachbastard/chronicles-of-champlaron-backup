@@ -1,7 +1,7 @@
 ---
 dg-publish: true
-place: 
-district:
+place: Poppleton
+district: Atelier Alley
 explored:
 ---
 
@@ -10,6 +10,7 @@ explored:
 ![[Electric Mango Placeholder IMG.png]]
 
 >[!place]
->**District:** 
+>**District:** `=this.district`
+>
 
 

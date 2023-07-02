@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/Austyr Anemoi.md",
+                "file": "NPC/The Royal Family/Duchess Aquilo Anemoi.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Austyr Anemoi.md",
+                "file": "NPC/The Royal Family/Duchess Aquilo Anemoi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Austyr Anemoi.md",
+                "file": "NPC/The Royal Family/Duchess Aquilo Anemoi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Austyr Anemoi.md"
+                "file": "NPC/The Royal Family/Duchess Aquilo Anemoi.md"
               }
             }
           }
@@ -199,14 +199,16 @@
   },
   "active": "feb51bffc0487d37",
   "lastOpenFiles": [
-    "Places/Champlaron.md",
+    "z_Assets/Duchess Aquilo Anemoi IMG.png",
     "NPC/The Royal Family/Duke Vulturnus Anemoi.md",
+    "NPC/The Royal Family/Duchess Aquilo Anemoi.md",
+    "Places/Poppleton.md",
+    "Places/Champlaron.md",
     "Party/Austyr Anemoi.md",
     "z_Templates/Template - NPC.md",
     "z_Assets/Duke Vulturnus Anemoi IMG.png",
     "Party/TBD Warlock.md",
     "Home Page.md",
-    "Places/Poppleton.md",
     "chronicles-of-champlaron-backup",
     "Party/Austyr Test 2.md",
     "z_Templates/Template - Party.md",

@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "Party/Austyr Anemoi.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page.md",
+                "file": "Party/Austyr Anemoi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page.md",
+                "file": "Party/Austyr Anemoi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page.md"
+                "file": "Party/Austyr Anemoi.md"
               }
             }
           }
@@ -189,15 +189,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "digitalgarden:Digital Garden Publication Center": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "5b5e4aab348e57a3",
   "lastOpenFiles": [
+    "Home Page.md",
     "Party/Austyr Anemoi.md",
     "Places/Champlaron.md",
-    "Home Page.md",
+    "Places/Poppleton.md",
     "Party/TBD Warlock.md",
     "chronicles-of-champlaron-backup",
     "Party/Austyr Test 2.md",
@@ -205,7 +206,6 @@
     "z_Templates/Template - Party.md",
     "z_Templates/Template - Places.md",
     "z_Templates/Template - Item.md",
-    "Places/Poppleton.md",
     "z_Assets/TBD Rogue IMG.png",
     "z_Assets/TBD Warlock IMG.png",
     "z_Assets/Crimson (2)_adobe_express.svg",

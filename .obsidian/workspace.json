@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Template - Item.md",
+                "file": "Home Page.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Template - Item.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Template - Item.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Template - Item.md"
+                "file": "Home Page.md"
               }
             }
           }
@@ -197,23 +197,23 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "feb51bffc0487d37",
+  "active": "7db6d418e60bea6f",
   "lastOpenFiles": [
+    "Party/Austyr Anemoi.md",
+    "Party/TBD Warlock.md",
+    "z_Templates/Template - Item.md",
     "Places/Poppleton.md",
     "Places/Champlaron.md",
     "NPC/The Royal Family/Duchess Aquilo Anemoi.md",
     "NPC/The Royal Family/Duke Vulturnus Anemoi.md",
     "z_Assets/Duchess Aquilo Anemoi IMG.png",
-    "Party/Austyr Anemoi.md",
     "z_Templates/Template - NPC.md",
     "z_Assets/Duke Vulturnus Anemoi IMG.png",
-    "Party/TBD Warlock.md",
     "Home Page.md",
     "chronicles-of-champlaron-backup",
     "Party/Austyr Test 2.md",
     "z_Templates/Template - Party.md",
     "z_Templates/Template - Places.md",
-    "z_Templates/Template - Item.md",
     "z_Assets/TBD Rogue IMG.png",
     "z_Assets/TBD Warlock IMG.png",
     "z_Assets/Crimson (2)_adobe_express.svg",
